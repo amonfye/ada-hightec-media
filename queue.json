@@ -1,5 +1,5 @@
 {
- "base_url": "https://amonfye.github.io/ada-hightec-media/media/",
+ "base_url": "https://raw.githubusercontent.com/amonfye/ada-hightec-media/main/media/",
  "account": "17841476306696470",
  "queue": [
   {
@@ -9,9 +9,9 @@
     "reel01_avant-apres.mp4"
    ],
    "caption": "Avant → après. Un tap, 2 minutes. 🎧\nMonte le son et compare : même morceau, master ADA Hightec.\n3 masters gratuits par mois, lien en bio.\n\n#mastering #mixage #homestudio #rapfr #beatmaker #producteur #musique #artisteindependant",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
+   "status": "posted",
+   "posted_at": "2026-11-18T18:09+01:00",
+   "media_id": "17934509802165648"
   },
   {
    "id": 2,
