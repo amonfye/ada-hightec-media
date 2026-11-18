@@ -62,6 +62,17 @@
    "media_id": null
   },
   {
+   "id": 10,
+   "type": "video",
+   "files": [
+    "reel03_semblable_amon-fye.mp4"
+   ],
+   "caption": "Avant / après sur « SEMBLABLE » d’Amon Fye 🔥\nStyle détecté : trap, 133 BPM. Même passage : le mix envoyé, puis le master ADA Hightec. −15,0 → −7,6 LUFS.\nTon master depuis ton tel en 2 minutes, lien en bio.\n\n#trap #rapfr #mastering #beatmaker #homestudio #artisteindependant #producteur",
+   "status": "pending",
+   "posted_at": null,
+   "media_id": null
+  },
+  {
    "id": 5,
    "type": "image",
    "files": [
@@ -73,23 +84,34 @@
    "media_id": null
   },
   {
-   "id": 6,
-   "type": "image",
-   "files": [
-    "post02_styles.jpg"
-   ],
-   "caption": "Un master de trap ne se traite pas comme un master d'afro. L'IA d'ADA Hightec détecte le genre de ton morceau et adapte le traitement. 🎛️\nTeste sur ton propre son, lien en bio.\n\n#trap #afro #rapfr #pop #mastering #beatmaker",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  },
-  {
    "id": 7,
    "type": "image",
    "files": [
     "post03_formats.jpg"
    ],
    "caption": "WAV, MP3, FLAC, M4A… même le bounce sorti de ton tel. Balance ce que t'as, on s'occupe du reste.\n\n#mastering #homestudio #musique #producteur #artisteindependant",
+   "status": "pending",
+   "posted_at": null,
+   "media_id": null
+  },
+  {
+   "id": 11,
+   "type": "video",
+   "files": [
+    "reel04_nouvelle-these.mp4"
+   ],
+   "caption": "Avant / après sur « NOUVELLE THÈSE » 🎧\nStyle détecté : rap, 91 BPM. Le mix envoyé tel quel, puis le master ADA Hightec : +7,2 dB, même passage.\nTon master depuis ton tel en 2 minutes, lien en bio.\n\n#rapfr #mastering #beatmaker #homestudio #artisteindependant #producteur #rap",
+   "status": "pending",
+   "posted_at": null,
+   "media_id": null
+  },
+  {
+   "id": 6,
+   "type": "image",
+   "files": [
+    "post02_styles.jpg"
+   ],
+   "caption": "Un master de trap ne se traite pas comme un master d'afro. L'IA d'ADA Hightec détecte le genre de ton morceau et adapte le traitement. 🎛️\nTeste sur ton propre son, lien en bio.\n\n#trap #afro #rapfr #pop #mastering #beatmaker",
    "status": "pending",
    "posted_at": null,
    "media_id": null
