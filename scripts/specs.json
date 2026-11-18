@@ -1,0 +1,143 @@
+[
+ {
+  "file": "post01_2minutes.jpg",
+  "title": [
+   [
+    "Ton master.",
+    "w"
+   ],
+   [
+    "Pas dans 3 jours.",
+    "w"
+   ],
+   [
+    "Dans 2 minutes.",
+    "a"
+   ]
+  ],
+  "body": "Upload ton son, écoute l'avant / après, télécharge. C'est tout.",
+  "cta": "Lien en bio →"
+ },
+ {
+  "file": "post02_styles.jpg",
+  "title": [
+   [
+    "Rap. Trap.",
+    "w"
+   ],
+   [
+    "Afro. Pop.",
+    "w"
+   ],
+   [
+    "L'IA reconnaît",
+    "a"
+   ],
+   [
+    "ton style.",
+    "a"
+   ]
+  ],
+  "body": "Pas un preset passe-partout : le traitement s'adapte au genre de ton morceau.",
+  "cta": "Teste sur ton son → lien en bio"
+ },
+ {
+  "file": "post03_formats.jpg",
+  "title": [
+   [
+    "WAV. MP3.",
+    "w"
+   ],
+   [
+    "FLAC. M4A.",
+    "w"
+   ],
+   [
+    "Balance",
+    "a"
+   ],
+   [
+    "ce que t'as.",
+    "a"
+   ]
+  ],
+  "body": "Même un bounce sorti de ton tel. Tu récupères un master prêt pour les plateformes.",
+  "cta": "Lien en bio →"
+ },
+ {
+  "file": "post04_truepeak.jpg",
+  "title": [
+   [
+    "−1 dBTP.",
+    "a"
+   ],
+   [
+    "Zéro écrêtage.",
+    "w"
+   ],
+   [
+    "Même en MP3.",
+    "w"
+   ]
+  ],
+  "body": "Limiteur true peak et volume calé sur la cible de chaque plateforme. Ton son passe partout sans saturer.",
+  "cta": "Spotify · Apple Music · YouTube · TikTok"
+ },
+ {
+  "file": "post05_question.jpg",
+  "tag": "QUESTION",
+  "size": 92,
+  "title": [
+   [
+    "Tu masterises",
+    "w"
+   ],
+   [
+    "comment",
+    "w"
+   ],
+   [
+    "aujourd'hui ?",
+    "w"
+   ]
+  ],
+  "list": [
+   [
+    "Je le fais moi-même",
+    ""
+   ],
+   [
+    "J'envoie à un ingé",
+    ""
+   ],
+   [
+    "Je sors sans master",
+    ""
+   ],
+   [
+    "J'utilise déjà une IA",
+    ""
+   ]
+  ],
+  "cta": "Réponds en commentaire ↓"
+ },
+ {
+  "file": "post06_gratuit.jpg",
+  "title": [
+   [
+    "3 masters",
+    "w"
+   ],
+   [
+    "gratuits",
+    "a"
+   ],
+   [
+    "chaque mois.",
+    "w"
+   ]
+  ],
+  "body": "Sans carte bancaire. Illimité à 15 €/mois quand t'es prêt à sortir plus.",
+  "cta": "Lien en bio →"
+ }
+]
