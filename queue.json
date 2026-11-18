@@ -1,131 +1,131 @@
 {
- "base_url": "https://raw.githubusercontent.com/amonfye/ada-hightec-media/main/media/",
- "account": "17841476306696470",
- "queue": [
-  {
-   "id": 1,
-   "type": "video",
-   "files": [
-    "reel01_avant-apres.mp4"
-   ],
-   "caption": "Avant → après. Un tap, 2 minutes. 🎧\nMonte le son et compare : même morceau, master ADA Hightec.\n3 masters gratuits par mois, lien en bio.\n\n#mastering #mixage #homestudio #rapfr #beatmaker #producteur #musique #artisteindependant",
-   "status": "posted",
-   "posted_at": "2026-11-18T18:09+01:00",
-   "media_id": "17934509802165648"
-  },
-  {
-   "id": 9,
-   "type": "video",
-   "files": [
-    "reel02_so-cray_amon-fye.mp4"
-   ],
-   "caption": "Avant / après sur « SO CRAY » d’Amon Fye 🔥\nMême passage : le mix envoyé dans l'appli, puis le master ADA Hightec en mode fort. Monte le son.\nTon master depuis ton tel en 2 minutes, lien en bio.\n\n#mastering #rapfr #trap #beatmaker #homestudio #artisteindependant #producteur",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  },
-  {
-   "id": 2,
-   "type": "carousel",
-   "files": [
-    "carrousel01_slide1.jpg",
-    "carrousel01_slide2.jpg",
-    "carrousel01_slide3.jpg",
-    "carrousel01_slide4.jpg",
-    "carrousel01_slide5.jpg"
-   ],
-   "caption": "Pas de studio, pas d'ingé à attendre. Upload ton morceau, l'IA reconnaît ton style, tu écoutes l'avant/après et tu récupères ton master prêt pour Spotify, Apple Music, YouTube et TikTok. Glisse →\nTeste gratuitement, lien en bio.\n\n#mastering #masteringIA #homestudio #rapfr #trap #afro #artisteindependant",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  },
-  {
-   "id": 3,
-   "type": "image",
-   "files": [
-    "post05_question.jpg"
-   ],
-   "caption": "Sois honnête 👀 Tu masterises comment aujourd'hui ?\n1, 2, 3 ou 4 ? Réponds en commentaire.\n\n#mastering #homestudio #beatmaker #rapfr #producteur",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  },
-  {
-   "id": 4,
-   "type": "image",
-   "files": [
-    "post01_2minutes.jpg"
-   ],
-   "caption": "Ton morceau est fini ce soir ? Ton master aussi. ⏱️\nUpload, écoute l'avant/après, télécharge. Lien en bio.\n\n#mastering #musique #artisteindependant #rapfr #homestudio",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  },
-  {
-   "id": 10,
-   "type": "video",
-   "files": [
-    "reel03_semblable_amon-fye.mp4"
-   ],
-   "caption": "Avant / après sur « SEMBLABLE » d’Amon Fye 🔥\nStyle détecté : trap, 133 BPM. Même passage : le mix envoyé, puis le master ADA Hightec. −15,0 → −7,6 LUFS.\nTon master depuis ton tel en 2 minutes, lien en bio.\n\n#trap #rapfr #mastering #beatmaker #homestudio #artisteindependant #producteur",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  },
-  {
-   "id": 5,
-   "type": "image",
-   "files": [
-    "post04_truepeak.jpg"
-   ],
-   "caption": "Le détail qui change tout sur les plateformes : limiteur true peak à −1 dBTP et volume calé sur la cible de chaque plateforme. Pas d'écrêtage, même une fois converti en MP3.\n\n#mastering #loudness #lufs #mixage #homestudio",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  },
-  {
-   "id": 7,
-   "type": "image",
-   "files": [
-    "post03_formats.jpg"
-   ],
-   "caption": "WAV, MP3, FLAC, M4A… même le bounce sorti de ton tel. Balance ce que t'as, on s'occupe du reste.\n\n#mastering #homestudio #musique #producteur #artisteindependant",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  },
-  {
-   "id": 11,
-   "type": "video",
-   "files": [
-    "reel04_nouvelle-these.mp4"
-   ],
-   "caption": "Avant / après sur « NOUVELLE THÈSE » 🎧\nStyle détecté : rap, 91 BPM. Le mix envoyé tel quel, puis le master ADA Hightec : +7,2 dB, même passage.\nTon master depuis ton tel en 2 minutes, lien en bio.\n\n#rapfr #mastering #beatmaker #homestudio #artisteindependant #producteur #rap",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  },
-  {
-   "id": 6,
-   "type": "image",
-   "files": [
-    "post02_styles.jpg"
-   ],
-   "caption": "Un master de trap ne se traite pas comme un master d'afro. L'IA d'ADA Hightec détecte le genre de ton morceau et adapte le traitement. 🎛️\nTeste sur ton propre son, lien en bio.\n\n#trap #afro #rapfr #pop #mastering #beatmaker",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  },
-  {
-   "id": 8,
-   "type": "image",
-   "files": [
-    "post06_gratuit.jpg"
-   ],
-   "caption": "3 masters gratuits chaque mois, sans carte bancaire. Illimité à 15 €/mois quand tu sors plus de sons.\nLien en bio. 🔗\n\n#mastering #musique #rapfr #artisteindependant #homestudio",
-   "status": "pending",
-   "posted_at": null,
-   "media_id": null
-  }
- ]
+  "base_url": "https://raw.githubusercontent.com/amonfye/ada-hightec-media/main/media/",
+  "account": "17841476306696470",
+  "queue": [
+    {
+      "id": 1,
+      "type": "video",
+      "files": [
+        "reel01_avant-apres.mp4"
+      ],
+      "caption": "Avant → après. Un tap, 2 minutes. 🎧\nMonte le son et compare : même morceau, master ADA Hightec.\n3 masters gratuits par mois, lien en bio.\n\n#mastering #mixage #homestudio #rapfr #beatmaker #producteur #musique #artisteindependant",
+      "status": "posted",
+      "posted_at": "2026-11-18T18:09+01:00",
+      "media_id": "17934509802165648"
+    },
+    {
+      "id": 9,
+      "type": "video",
+      "files": [
+        "reel02_so-cray_amon-fye.mp4"
+      ],
+      "caption": "Avant / après sur « SO CRAY » d’Amon Fye 🔥\nMême passage : le mix envoyé dans l'appli, puis le master ADA Hightec en mode fort. Monte le son.\nTon master depuis ton tel en 2 minutes, lien en bio.\n\n#mastering #rapfr #trap #beatmaker #homestudio #artisteindependant #producteur",
+      "status": "posted",
+      "posted_at": "2026-11-18T20:29+01:00",
+      "media_id": "18127666837924736"
+    },
+    {
+      "id": 2,
+      "type": "carousel",
+      "files": [
+        "carrousel01_slide1.jpg",
+        "carrousel01_slide2.jpg",
+        "carrousel01_slide3.jpg",
+        "carrousel01_slide4.jpg",
+        "carrousel01_slide5.jpg"
+      ],
+      "caption": "Pas de studio, pas d'ingé à attendre. Upload ton morceau, l'IA reconnaît ton style, tu écoutes l'avant/après et tu récupères ton master prêt pour Spotify, Apple Music, YouTube et TikTok. Glisse →\nTeste gratuitement, lien en bio.\n\n#mastering #masteringIA #homestudio #rapfr #trap #afro #artisteindependant",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
+      "id": 3,
+      "type": "image",
+      "files": [
+        "post05_question.jpg"
+      ],
+      "caption": "Sois honnête 👀 Tu masterises comment aujourd'hui ?\n1, 2, 3 ou 4 ? Réponds en commentaire.\n\n#mastering #homestudio #beatmaker #rapfr #producteur",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
+      "id": 4,
+      "type": "image",
+      "files": [
+        "post01_2minutes.jpg"
+      ],
+      "caption": "Ton morceau est fini ce soir ? Ton master aussi. ⏱️\nUpload, écoute l'avant/après, télécharge. Lien en bio.\n\n#mastering #musique #artisteindependant #rapfr #homestudio",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
+      "id": 10,
+      "type": "video",
+      "files": [
+        "reel03_semblable_amon-fye.mp4"
+      ],
+      "caption": "Avant / après sur « SEMBLABLE » d’Amon Fye 🔥\nStyle détecté : trap, 133 BPM. Même passage : le mix envoyé, puis le master ADA Hightec. −15,0 → −7,6 LUFS.\nTon master depuis ton tel en 2 minutes, lien en bio.\n\n#trap #rapfr #mastering #beatmaker #homestudio #artisteindependant #producteur",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
+      "id": 5,
+      "type": "image",
+      "files": [
+        "post04_truepeak.jpg"
+      ],
+      "caption": "Le détail qui change tout sur les plateformes : limiteur true peak à −1 dBTP et volume calé sur la cible de chaque plateforme. Pas d'écrêtage, même une fois converti en MP3.\n\n#mastering #loudness #lufs #mixage #homestudio",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
+      "id": 7,
+      "type": "image",
+      "files": [
+        "post03_formats.jpg"
+      ],
+      "caption": "WAV, MP3, FLAC, M4A… même le bounce sorti de ton tel. Balance ce que t'as, on s'occupe du reste.\n\n#mastering #homestudio #musique #producteur #artisteindependant",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
+      "id": 11,
+      "type": "video",
+      "files": [
+        "reel04_nouvelle-these.mp4"
+      ],
+      "caption": "Avant / après sur « NOUVELLE THÈSE » 🎧\nStyle détecté : rap, 91 BPM. Le mix envoyé tel quel, puis le master ADA Hightec : +7,2 dB, même passage.\nTon master depuis ton tel en 2 minutes, lien en bio.\n\n#rapfr #mastering #beatmaker #homestudio #artisteindependant #producteur #rap",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
+      "id": 6,
+      "type": "image",
+      "files": [
+        "post02_styles.jpg"
+      ],
+      "caption": "Un master de trap ne se traite pas comme un master d'afro. L'IA d'ADA Hightec détecte le genre de ton morceau et adapte le traitement. 🎛️\nTeste sur ton propre son, lien en bio.\n\n#trap #afro #rapfr #pop #mastering #beatmaker",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
+      "id": 8,
+      "type": "image",
+      "files": [
+        "post06_gratuit.jpg"
+      ],
+      "caption": "3 masters gratuits chaque mois, sans carte bancaire. Illimité à 15 €/mois quand tu sors plus de sons.\nLien en bio. 🔗\n\n#mastering #musique #rapfr #artisteindependant #homestudio",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    }
+  ]
 }
