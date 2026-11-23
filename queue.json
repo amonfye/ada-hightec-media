@@ -106,12 +106,45 @@
       "media_id": null
     },
     {
+      "id": 12,
+      "type": "image",
+      "files": [
+        "post07_question-style.jpg"
+      ],
+      "caption": "Question rapide 👀 Ton prochain son, c'est quoi ?\n1 rap, 2 trap, 3 afro, 4 pop. Réponds en commentaire, l'IA d'ADA Hightec détecte le style et adapte le master.\n\n#rapfr #trap #afro #pop #mastering #beatmaker #homestudio",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
+      "id": 13,
+      "type": "image",
+      "files": [
+        "post08_meme-volume.jpg"
+      ],
+      "caption": "Plus fort, ça sonne toujours « mieux ». C'est pour ça que l'écoute avant/après d'ADA Hightec compare ton mix et ton master au même volume perçu. 🎧\nTeste sur ton son, 3 masters gratuits par mois, lien en bio.\n\n#mastering #mixage #homestudio #rapfr #beatmaker #producteur",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
       "id": 6,
       "type": "image",
       "files": [
         "post02_styles.jpg"
       ],
       "caption": "Un master de trap ne se traite pas comme un master d'afro. L'IA d'ADA Hightec détecte le genre de ton morceau et adapte le traitement. 🎛️\nTeste sur ton propre son, lien en bio.\n\n#trap #afro #rapfr #pop #mastering #beatmaker",
+      "status": "pending",
+      "posted_at": null,
+      "media_id": null
+    },
+    {
+      "id": 14,
+      "type": "image",
+      "files": [
+        "post09_depuis-ton-tel.jpg"
+      ],
+      "caption": "Sauvegarde pour ton prochain son 📌\nUpload (WAV, MP3, FLAC, M4A) → l'IA détecte ton style → avant/après au même volume perçu → télécharge. Environ 2 minutes, depuis ton tel.\n3 masters gratuits par mois sans CB, lien en bio.\n\n#mastering #masteringIA #homestudio #rapfr #artisteindependant #producteur",
       "status": "pending",
       "posted_at": null,
       "media_id": null

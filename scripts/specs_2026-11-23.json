@@ -1,0 +1,24 @@
+[
+ {
+  "file": "media/post07_question-style.jpg",
+  "tag": "QUESTION",
+  "size": 92,
+  "title": [["Ton prochain son,", "w"], ["c'est quoi ?", "a"]],
+  "list": [["Rap", ""], ["Trap", ""], ["Afro", ""], ["Pop", ""]],
+  "cta": "Réponds en commentaire ↓"
+ },
+ {
+  "file": "media/post08_meme-volume.jpg",
+  "title": [["Avant / après.", "w"], ["Au même", "a"], ["volume perçu.", "a"]],
+  "body": "Tu compares ton mix et ton master à niveau égal. Tu entends la vraie différence, pas juste « plus fort ».",
+  "cta": "Teste sur ton son → lien en bio"
+ },
+ {
+  "file": "media/post09_depuis-ton-tel.jpg",
+  "tag": "À SAUVEGARDER",
+  "size": 92,
+  "title": [["Ton master", "w"], ["depuis ton tel.", "a"]],
+  "list": [["Upload ton son", "WAV, MP3, FLAC ou M4A"], ["L'IA détecte ton style", "Rap, trap, afro, pop…"], ["Écoute l'avant / après", "Au même volume perçu"], ["Télécharge", "Environ 2 minutes"]],
+  "cta": "3 masters gratuits / mois → lien en bio"
+ }
+]
