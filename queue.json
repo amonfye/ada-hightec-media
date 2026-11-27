@@ -170,6 +170,15 @@
       "status": "posted",
       "posted_at": "2026-11-26 18:29",
       "media_id": "18131852009302198"
+    },
+    {
+      "id": 16,
+      "type": "image",
+      "files": [
+        "post11_checklist.jpg"
+      ],
+      "caption": "Avant de sortir ton son, 4 trucs à checker : le style détecté, l'écoute avant/après au même volume perçu, un limiteur true peak à −1 dBTP et un volume calé sur Spotify, Apple Music, YouTube et TikTok. ✅\nTon master depuis ton tel en 2 minutes, lien en bio.\n\n#mastering #masteringIA #mixage #loudness #homestudio #rapfr #artisteindependant",
+      "status": "pending"
     }
   ]
 }
